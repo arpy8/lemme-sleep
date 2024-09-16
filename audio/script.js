@@ -78,7 +78,7 @@
         micValuesElement.innerHTML = `Max: ${max_val}`;
       }
     
-      if (currentValue > 40) {
+      if (currentValue > 30) {
         if (!audio.isPlaying) {
           audio.play();
           audio.isPlaying = true;
