@@ -1,0 +1,138 @@
+{
+  "links": {
+    "CSE3010": {
+      "title": "Computer Vision",
+      "link": "https://meet.google.com/xcp-fbie-trt?authuser=1"
+    },
+    "CSA4005": {
+      "title": "Expert Systems and Fuzzy Logic",
+      "link": "https://meet.google.com/iez-vrvm-fwr?authuser=1"
+    },
+    "MAT3003": {
+      "title": "Probability, Statistics and Reliability",
+      "link": "https://meet.google.com/pcc-dfnr-iwh?authuser=1"
+    },
+    "CSA4002": {
+      "title": "Artifical Neural Networks",
+      "link": "https://meet.google.com/ecd-mwzf-ump?authuser=1"
+    },
+    "CSG2003": {
+      "title": "Human Computer Interaction",
+      "link": "https://meet.google.com/dsr-ivhw-egy?authuser=1"
+    },
+    "CSA3004": {
+      "title": "Data Visualization",
+      "link": "https://meet.google.com/mef-hqwe-etm?authuser=1"
+    },
+    "CSE3001": {
+      "title": "Database Management Systems",
+      "link": "https://meet.google.com/akt-jsmi-dne?authuser=1"
+    },
+    "HUM0001": {
+      "title": "Ethics and Values",
+      "link": "https://meet.google.com/frd-ouqx-pzp?authuser=1"
+    }
+  },
+  "schedule": {
+    "Monday": [
+      {
+        "start": "08:00",
+        "end": "08:30",
+        "link": "CSA4005"
+      },
+      {
+        "start": "10:05",
+        "end": "11:35",
+        "link": "CSE3010"
+      },
+      {
+        "start": "11:40",
+        "end": "13:10",
+        "link": "MAT3003"
+      },
+      {
+        "start": "16:25",
+        "end": "17:55",
+        "link": "CSA4002"
+      }
+    ],
+    "Tuesday": [
+      {
+        "start": "10:05",
+        "end": "11:35",
+        "link": "CSG2003"
+      },
+      {
+        "start": "11:40",
+        "end": "13:10",
+        "link": "CSA3004"
+      },
+      {
+        "start": "14:50",
+        "end": "16:20",
+        "link": "CSA4002"
+      },
+      {
+        "start": "16:25",
+        "end": "17:55",
+        "link": "HUM0001"
+      },
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "link": "CSE3001"
+      }
+    ],
+    "Wednesday": [
+      {
+        "start": "08:30",
+        "end": "10:00",
+        "link": "CSA4005"
+      },
+      {
+        "start": "11:40",
+        "end": "13:10",
+        "link": "MAT3003"
+      },
+      {
+        "start": "16:25",
+        "end": "17:55",
+        "link": "CSE3001"
+      }
+    ],
+    "Thursday": [
+      {
+        "start": "11:40",
+        "end": "13:10",
+        "link": "CSA3004"
+      },
+      {
+        "start": "16:25",
+        "end": "17:55",
+        "link": "CSA4002"
+      }
+    ],
+    "Friday": [
+      {
+        "start": "10:05",
+        "end": "11:35",
+        "link": "CSE3010"
+      },
+      {
+        "start": "11:40",
+        "end": "13:10",
+        "link": "MAT3003"
+      },
+      {
+        "start": "14:50",
+        "end": "16:20",
+        "link": "CSG2003"
+      },
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "link": "CSE3001"
+      }
+    ]
+  }
+}
