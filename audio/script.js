@@ -72,7 +72,15 @@
     const processFrame = (data) => {
       const values = Object.values(data);
       const currentValue = values[dataMap[12]]; // Extract the relevant value once
-    
+      
+      let i;
+         for ( i = 0; i < visualValueCount; ++i ) {
+         const value = values[ dataMap[ i ] ] / 255;
+         const elmStyles = visualElements[ i ].style;
+         elmStyles.transform = `scaleY( ${ value } )`;
+         elmStyles.opacity = Math.max( .25, value );
+      }
+      
       if (currentValue > max_val) {
         max_val = currentValue;
         micValuesElement.innerHTML = `Max: ${max_val}`;
